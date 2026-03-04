@@ -1,5 +1,8 @@
 # Superstore Sales Performance Dashboard
 
+## Dashboard Preview
+![Dashboard](dashboard_preview.png)
+
 ## Project Overview
 This project analyzes retail sales performance using the Superstore dataset.  
 The dashboard was built using Power BI to explore sales trends, profitability, and product return patterns.
