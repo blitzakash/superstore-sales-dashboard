@@ -5,7 +5,7 @@
 
 ## Project Overview
 This project analyzes retail sales performance using the Superstore dataset.  
-The dashboard was built using Power BI to explore sales trends, profitability, and product return patterns.
+The dashboard was built using **Power BI** to explore sales trends, profitability, and product return patterns. The goal of this project is to demonstrate skills in **data visualization, data modeling, and business insight generation**.
 
 ## Tools Used
 - Power BI
@@ -31,4 +31,13 @@ The dashboard was built using Power BI to explore sales trends, profitability, a
 - The West region demonstrates strong overall sales performance.
 
 ## Files
-Superstore_Sales_Performance_Dashboard.pbix – Power BI dashboard file
+- **SuperStore.xlsx** – Raw dataset used for analysis  
+- **Superstore_Sales_Performance_Dashboard.pbix** – Power BI dashboard file  
+- **dashboard_preview.png** – Screenshot of the final dashboard
+
+## Skills Demonstrated
+- Data Visualization
+- Business Intelligence Reporting
+- KPI Analysis
+- Dashboard Design
+- Data Modeling in Power BI
